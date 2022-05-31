@@ -1,6 +1,6 @@
 # Frontend Mentor - 3-column preview card component
 
-[live site](https://maxdeb1.github.io/3-column-preview-card-component/)
+[Live site](https://maxdeb1.github.io/3-column-preview-card-component/)
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
 
